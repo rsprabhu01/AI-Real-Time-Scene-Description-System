@@ -1,2 +1,13 @@
-# AI-Real-Time-Scene-Description-System
-An AI-powered assistive system that analyzes surroundings in real time and provides voice-based scene descriptions to help visually impaired users navigate their environment independently.
+# AI-Based Real-Time Scene Description System
+
+## Overview
+This project uses Artificial Intelligence and Computer Vision to analyze surroundings and provide voice-based descriptions in real time, helping visually impaired users understand their environment.
+
+## Technologies Used
+- Python
+- OpenCV
+- Artificial Intelligence
+- Text-to-Speech
+
+## Author
+Revanna Siddeshwara Prabhu
